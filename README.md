@@ -1,25 +1,3 @@
-# pcr-boss-analyzer
+联动 PCR QQ机器人提供的功能 [HoshinoBot](https://github.com/Ice-Cirno/HoshinoBot/blob/master/hoshino/modules/pcrclanbattle/clanbattle/README.md)
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-# pcr-lanbettle-helper
+将 HoshinoBot 提供的出刀记录（通过 !出刀记录 导出）导入便可进行图表分析

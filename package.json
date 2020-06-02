@@ -1,5 +1,5 @@
 {
-  "name": "pcr-boss-analyzer",
+  "name": "pcr-lanbettle-helper",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "element-ui": "^2.13.2",
+    "sass": "^1.26.7",
     "vue": "^2.6.11"
   },
   "devDependencies": {
